@@ -15,7 +15,7 @@ body {
 /* Header and Navbar Styles */
 header {
     width: 100%;
-    position: flex;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 1000;
