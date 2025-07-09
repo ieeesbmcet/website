@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const eventSlidesData = [
-        { src: 'events/1.jpg', description: 'BLS' },
+        { src: 'events/event (16).jpg', description: 'BLS' },
         { src: 'events/event (1).png', description: 'RISE' },
         { src: 'events/event (2).png', description: 'GFX Workshop' },
         { src: 'events/event (3).png', description: 'GPT 101' },
