@@ -166,6 +166,7 @@ header.scrolled {
 
 /* Header Image Styles */
 .header-image {
+    padding-top:150px ;
     position: relative;
     height: 35vh; 
     background-image: url('landing-bg.jpg');  
